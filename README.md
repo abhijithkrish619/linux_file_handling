@@ -13,3 +13,6 @@ d)finally displaying the contents of the file after the write operations.
 
 #### Modifications you need to perform:
 I have given the path name with respect to my system's directory structure,change that to your desired path and execute the code.
+
+#### Output:
+![Screenshot from 2020-03-18 13 00 46](https://user-images.githubusercontent.com/61534395/76936265-a402cd00-6918-11ea-9f13-d76b4bfc4209.jpeg)
